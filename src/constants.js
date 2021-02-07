@@ -1,10 +1,10 @@
 ﻿import emoji from "react-easy-emoji";
 import college from "./assets/images/college.png";
-import telstra from "./assets/images/telstra.png";
+import telstra from "./assets/images/telstra1.jpg";
 
 import infy from "./assets/images/infosys.png";
 
-import nab from "./assets/images/nab.png";
+import nab from "./assets/images/nab1.jpg";
 import tbm from "./assets/images/tbm.png";
 import edulabs from "./assets/images/edulabs.png";
 
@@ -16,7 +16,7 @@ const greeting = {
   username: "Durgesh Singh <DK>",
   title: "Hi, this is Durgesh",
   subTitle: emoji(
-    "I am a well-qualified MERN/Full stack developer with banking and telecommunication industry experience. I've almost 9+ years of experience in the software industry building native, hybrid, and monolithic applications using front-end tech such as React/NodeJS and back-end experience in Java/Spring Boot and Rest API. I also have experience in AWS/AWS Lambdas."
+    "I am a MERN/Full stack developer, experience working in the Banking and Telecommunication domains. I've almost 9+ years of experience in the software industry building native, hybrid, and monolithic applications using front-end tech such as React/NodeJS and back-end experience in Java/Spring Boot and Rest API. I also have experience in AWS/AWS Lambdas."
   ),
   resumeLink:
     "https://drive.google.com/drive/folders/1ZlpBbOU7WIuVTmxj4E1qq8gqcuv1HN8s?usp=sharing",
@@ -190,7 +190,7 @@ const workExperiences = {
     },
     {
       role: "Java Developer",
-      company: "TBM technology pvt ltd",
+      company: "TBM Technologies Pvt Ltd",
       companylogo: tbm,
       date: "Sep 2013 – Nov 2014",
       desc:
@@ -198,7 +198,7 @@ const workExperiences = {
     },
     {
       role: "Associate Software Engineer",
-      company: "Edulabs",
+      company: "Edulabs Learning Sol Pvt Ltd",
       companylogo: edulabs,
       date: "Jun 2012 – Jul 2013",
       desc:
