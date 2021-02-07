@@ -71,10 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # ways to deploy the code
 pls follow this below link which i found very easy
-
-https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
-
-or
-
 https://github.com/gitname/react-gh-pages
 
