@@ -1,12 +1,11 @@
 ﻿import emoji from "react-easy-emoji";
 import college from "./assets/images/college.png";
 import telstra from "./assets/images/telstra1.jpg";
-
 import infy from "./assets/images/infosys.png";
-
 import nab from "./assets/images/nab1.jpg";
 import tbm from "./assets/images/tbm.png";
 import edulabs from "./assets/images/edulabs.png";
+import userImg from "./assets/images/user.jpg";
 
 const illustration = {
   animated: true, // set to false to use static SVG
@@ -14,6 +13,7 @@ const illustration = {
 
 const greeting = {
   username: "Durgesh Singh <DK>",
+  logo: userImg,
   title: "Hi, this is Durgesh",
   subTitle: emoji(
     "I am a MERN/Full stack developer, experience working in the Banking and Telecommunication domains. I've almost 9+ years of experience in the software industry building native, hybrid, and monolithic applications using front-end tech such as React/NodeJS and back-end experience in Java/Spring Boot and Rest API. I also have experience in AWS/AWS Lambdas."
